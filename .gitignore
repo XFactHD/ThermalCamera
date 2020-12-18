@@ -1,0 +1,12 @@
+fp-info-cache
+libs
+Gerber
+*.sch-bak
+*.kicad_pcb-bak
+
+.idea
+out
+
+Release
+Debug
+.vs
